@@ -12,7 +12,7 @@
 - 📫 How to reach me **ilker.binzet@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-- 📱Telegram **https://t.me/binzet**
+- 📱Telegram https://t.me/binzet
 <p align="left">
 </p>
 
